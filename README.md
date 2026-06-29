@@ -9,7 +9,7 @@
 
 ### Step 2 — Start the App
 
-**Windows:**
+***Windows:***
 ```
 Double-click: START_WINDOWS.bat
 ```
