@@ -222,8 +222,8 @@ CLIENT_URL=http://localhost:3001
 | PDF Export | Browser print-to-PDF |
 | Email | Nodemailer (mailto fallback) |
 | Styling | Pure CSS (no framework) |
-| Fonts | Google Fonts (Outfit) |
+| Fonts | Google Fonts (Outfit) ||
 
 ---
 
-*ResumeAI Pro — All features working, data persisted in SQLite*
+*ResumeAI Pro — All features are working, data persisted in SQLite*
