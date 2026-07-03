@@ -1,6 +1,6 @@
 # 🚀 ResumeAI Pro — Complete Setup Guide
 
-## ⚡ Quick Start (in 3 Steps)
+## ⚡ Quick Start (3 Steps)
 
 ### Step 1 — Install Node.js (One-time only)
 - **Windows/Mac**: Download from [nodejs.org](https://nodejs.org) → Install LTS version
@@ -42,7 +42,7 @@ Or click **"Try Demo Account"** on the login page.
 
 ---
 
-## 📁 a complete Project Structure
+## 📁Project Structure
 ```
 resumeai/
 ├── START_WINDOWS.bat       ← Double-click to start (Windows)
