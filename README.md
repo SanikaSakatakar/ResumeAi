@@ -1,4 +1,4 @@
-# 🚀 ResumeAI Pro — Complete Setup Guide
+# 🚀 ResumeAI Pro — Complete Setup Guide of the project 
 
 ## ⚡ Quick Start (3 Steps)
 
