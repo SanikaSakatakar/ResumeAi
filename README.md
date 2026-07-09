@@ -68,7 +68,7 @@ resumeai/
 - Change password with current password verification
 - Profile editing (name, email)
 
-### 📝 Resume Builder
+### 📝 Resume  Builder
 - Create multiple resumes per account
 - 4 professional templates (Classic, Modern, Executive, Minimal)
 - Live preview updates as you type
