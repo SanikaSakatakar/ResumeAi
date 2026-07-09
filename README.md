@@ -42,7 +42,7 @@ Or click **"Try Demo Account"** on the login page.
 
 ---
 
-## 📁a complete Project Structure
+## 📁Project Structure
 ```
 resumeai/
 ├── START_WINDOWS.bat       ← Double-click to start (Windows)
