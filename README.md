@@ -7,7 +7,7 @@
 - **Ubuntu/Debian**: `sudo apt install nodejs npm`
 - **Mac (Homebrew)**: `brew install node`
 
-### Step 2 — Start the App
+### Step 2 — Start the App :
 
 ***Windows:***
 ```
