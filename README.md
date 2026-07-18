@@ -34,7 +34,7 @@ http://localhost:3001
 
 ---
 
-## 🔐 Demo Account (Ready to Use)
+## 🔐Demo Account (Ready to Use)
 - **Email**: `demo@resumeai.pro`
 - **Password**: `Demo@1234`
 
