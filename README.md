@@ -12,7 +12,7 @@
 ***Windows:***
 ``
 Double-click: START_WINDOWS.bat
-```
+``'
 
 **Mac / Linux:**
 ```bash
