@@ -36,7 +36,7 @@ http://localhost:3001
 
 ## 🔐Demo Account (Ready to Use)
 - **Email**: `demo@resumeai.pro`
-- **Password**: `Demo@1234`
+- **Password**: `Demo@1234
 
 Or click **"Try Demo Account"** on the login page.
 
