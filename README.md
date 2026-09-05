@@ -13,7 +13,6 @@
 ``
 Double-click: START_WINDOWS.bat
 ``'
-
 **Mac / Linux:**
 ```bash
 chmod +x start_mac_linux.sh
