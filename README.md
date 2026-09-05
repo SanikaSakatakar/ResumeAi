@@ -5,7 +5,7 @@
 ### Step 1 — Install Node.js (One-time only)
 - **Windows/Mac**: Download from [nodejs.org](https://nodejs.org) → Install LTS version
 - **Ubuntu/Debian**: `sudo apt install nodejs npm`
-- **Mac (Homebrew)**: `brew install node`
+- **Mac (Homebrew)**: `brew install node
 
 ### Step 2 — Start the App
 
