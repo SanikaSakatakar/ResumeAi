@@ -1,5 +1,4 @@
 # 🚀 ResumeAI Pro — Complete Setup Guide of the project
-
 ## ⚡ Quick Start (3 Steps)
 
 ### Step 1 — Install Node.js (One-time only)
