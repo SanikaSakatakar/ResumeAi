@@ -20,7 +20,7 @@ chmod +x start_mac_linux.sh
 
 **Manual (any OS):**
 ```bash
-cd serverr
+cd server
 npm install
 node index.js
 ```
